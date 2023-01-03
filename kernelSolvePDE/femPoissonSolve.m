@@ -18,7 +18,7 @@ function [Uh, sysInfo] = femPoissonSolve(meshInfo,pde,option)
 %
 %
 %
-%	YxQian 6/5/2018
+%	YcZhang 6/5/2018
 %
 %   Last modified 6/5/2018
 %
@@ -136,7 +136,7 @@ function meshInfo = getPoissonBoundaryInfo(meshInfo)
 %
 %
 %
-%	YxQian 6/5/2018
+%	YcZhang 6/5/2018
 %
 %   Last modified 6/5/2018
 %

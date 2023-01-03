@@ -6,7 +6,7 @@ function uD = femTreatDirichletBCPoisson(gD, meshInfo, basesk)
 %       basesk, polynomial degree;
 %
 %
-%	YxQian 6/5/2018
+%	YcZhang 6/5/2018
 %
 %   Last modified 6/5/2018
 %

@@ -3,7 +3,7 @@ function [sysErr,sysTime] = femPoissonEqn(pde,option)
 %   femPoissonEqn solve the poisson equation by FEM methods
 % 
 %
-%	YxQian 6/5/2018
+%	YcZhang 6/5/2018
 %
 %   Last modified 6/5/2018
 %

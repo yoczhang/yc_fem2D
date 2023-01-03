@@ -3,7 +3,7 @@ function pde = poissonData(coeff_case, u_case)
 %   poissonData data for poisson equation
 %
 %
-%	YxQian 6/5/2018
+%	YcZhang 6/5/2018
 %
 %   Last modified 6/5/2018
 %
